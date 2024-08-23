@@ -1,5 +1,5 @@
 #estudanteAluraBoas vindas ao meu perfil
-Meu Gustavo Henrique da Silva Lima
+Meu nome Gustavo Henrique da Silva Lima
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
